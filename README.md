@@ -1,5 +1,5 @@
 # CS305
-# TImothy Johnson
+# Name: Timothy Johnson
 # Professor North
 
 Artemis Financial is a financial company that needed help reviewing and improving the security of their software system. Their main concern was making sure their software was safe from vulnerabilities that could lead to data breaches or system compromise.
