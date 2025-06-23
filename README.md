@@ -2,7 +2,7 @@
 # Name: Timothy Johnson
 # Professor North
 
-Artemis Financial is a financial company that needed help reviewing and improving the security of their software system. Their main concern was making sure their software was safe from vulnerabilities that could lead to data breaches or system compromise.
+For this course, I worked with Artemis Financial, a financial company that needed help reviewing and improving the security of their software system. Their main concern was making sure their software was safe from vulnerabilities that could lead to data breaches or system compromise.
 
 I was responsible for identifying any weaknesses in their software and improving the code so it followed secure coding practices. I think I did well spotting vulnerabilities and explaining how to fix them. Secure coding is important because it protects sensitive data and builds trust with users. When software is secure, it also reduces the chances of future issues that could cost time and money.
 
